@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hey there! This is my GitHub account where I dive into the fascinating world of cybersecurity.
 
-<!--
-**Saneper/Saneper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm up to:
 
-Here are some ideas to get you started:
+- Languages I Love: C++, SQL, Java, and Python.
+- Learning Journey: Currently deeply invested in secure development, malware analysis, and other cybersecurity fields.
+- Personal Projects: Threat reporting, and hacking away in online challenges.
+- Always exploring new realms of security to aquire other perspectives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Open to Opportunities:
+
+Currently on the lookout for exciting roles in the tech industry.
+If you have an interesting project or job opportunity, let's connect!
